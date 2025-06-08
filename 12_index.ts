@@ -1,4 +1,4 @@
-export function wormLength(worm: string) {
+export function wormLength(worm: string) : string {
     // if (!worm) return "invalid";
 
     // let len = 0;
