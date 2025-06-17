@@ -14,7 +14,7 @@ Lists can be of any length.
 It doesn't matter if an array begins/ends with a positive or negative, as long as it alternates.
 If an array contains 0, return false (as it is neither positive nor negative). 
 */
-export function alternatePosNeg(ar: number[]){
+export function alternatePosNeg(ar: number[]):boolean{
     if (ar[0] === 0) return false;
   
     for (let i = 1; i < ar.length ; i ++){
