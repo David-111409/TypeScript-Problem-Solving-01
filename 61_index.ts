@@ -4,6 +4,7 @@ function equilibrium (x:number) : "negative" | "positive" | true {
     return true;
 
 }
+export default equilibrium;
 
 console.log(equilibrium(0.000), true)
 console.log(equilibrium(0), true)
