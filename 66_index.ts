@@ -34,7 +34,7 @@
 // let step = stop / stop;
 // for (let i = start ; i > end ; i -= step){
 //     console.log(i.toString().padStart(2, "0"));
-//     if (i === 3){
+//     if (i === stop){
 //         break;
 //     }
 // }
