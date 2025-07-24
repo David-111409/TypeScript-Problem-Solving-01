@@ -23,6 +23,8 @@
 // let arr3 = ["Haytham", "Shady", "Mahmoud"];
 
 // Play With Arrays To Prepare For Destructuring
+// const [c , , , , a, b] = [...arr1, ...arr3];
+// console.log(`My Best Friends: ${a}, ${b}, ${c}`);
 // let bigAr = [...arr1, ...arr2, ...arr3];
 // Write Your Destructuring Assignment Here
 // const [b, a, , , , , , , c] = bigAr.reverse();
